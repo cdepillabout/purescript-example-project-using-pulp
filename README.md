@@ -25,7 +25,8 @@ Next, use Bower to install required PureScript libraries:
 $ node_modules/.bin/bower install
 ```
 
-This reads the dependencies from `bower.json` and installs them.
+This reads the dependencies from `bower.json` and installs them to the
+`bower_components/` directory.
 
 ## Building the code
 

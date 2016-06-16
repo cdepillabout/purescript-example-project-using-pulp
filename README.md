@@ -2,7 +2,9 @@
 # Example PureScript project using Pulp
 
 This is an example PureScript project that uses Pulp as its build tool.  It is
-built to accompany the blog post [here]().
+built to accompany the blog post [here][cbt].
+
+[cbt]: http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html#compiler-and-build-tools
 
 ## Installing necessary build tools.
 
